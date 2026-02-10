@@ -28,9 +28,9 @@ Interactive Power BI dashboard analyzing retail sales, profit, and product perfo
 - Members generate more profit  
 
 ## 🖼 Dashboard Preview
-(Add screenshot file named **dashboard.png_sales** in repo)
+(Add screenshot file named **dashboard.png** in repo)
 
-![Dashboard](dashboard.png_sales)
+![Dashboard](dashboard.png)
 
 ## 🚀 How to Open
 1. Download `sales_dashboard.pbix`
